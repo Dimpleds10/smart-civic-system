@@ -33,7 +33,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
         id: '1',
         email: 'user@example.com',
         user_metadata: {
-        name: 'John Doe',
+        name: 'Riya',
         phone: '+91 9876543210',
         pincode: '560001',
         landmark: 'Near City Center',
