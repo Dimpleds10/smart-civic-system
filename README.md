@@ -86,7 +86,7 @@ The diagram shows the complete lifecycle of a sanitation complaint from **user r
 
 The full diagram can be viewed in the repository:
 
-📁 `system-workflow.png`
+📁 system-workflow.png
 
 ## Impact
 
