@@ -86,7 +86,7 @@ The diagram shows the complete lifecycle of a sanitation complaint from **user r
 
 The full diagram can be viewed in the repository:
 
-📁 `diagrams/swachhmitra-system-workflow.png`
+📁 `system-workflow.png`
 
 ## Impact
 
@@ -144,7 +144,7 @@ Institution: **Shri Ramdeobaba College of Engineering and Management,Nagpur**
 
 ---
 
-## 🏁 Developed For
+## Developed For
 
 **Smart India Hackathon (SIH)**  
 Theme: *Swadeshi for Atmanirbhar Bharat – Clean & Green Technology*
