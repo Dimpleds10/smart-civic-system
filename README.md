@@ -80,7 +80,7 @@ SwachhMitra also promotes sustainable waste management through:
 ---
 ## System Workflow Diagram
 
-The workflow diagram of the **SwachhMitra Smart Sanitization System** illustrates how citizen reports are processed, validated using AI, assigned to the appropriate department, and resolved through an administrative workflow.
+The workflow diagram of the **SwachhMitra AI-Powered Clean & Green CivicTech Platform** illustrates how citizen reports are processed, validated using AI, assigned to the appropriate department, and resolved through an administrative workflow.
 
 The diagram shows the complete lifecycle of a sanitation complaint from **user reporting → AI validation → administrative review → department assignment → task execution → resolution and citizen notification**.
 
