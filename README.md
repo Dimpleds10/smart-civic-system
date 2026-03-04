@@ -1,6 +1,6 @@
 # SwachhMitra ♻️  
 ### AI-Powered Clean & Green CivicTech Platform  
-**SIH ID: SIH25128**
+**SIH Problem ID: SIH25128**
 
 ---
 
@@ -8,96 +8,99 @@
 
 **Student Innovation: Swadeshi for Atmanirbhar Bharat – Clean & Green Technology**
 
-Urban sanitation systems face major challenges:
-- Delayed complaint resolution  
-- Poor segregation at source  
-- Lack of transparency  
-- Limited citizen participation  
-- Inefficient waste routing  
+Urban sanitation systems face several challenges:
 
-SwachhMitra addresses these challenges using AI, blockchain, and geospatial analytics.
+- Delayed complaint resolution  
+- Poor waste segregation at source  
+- Lack of transparency in civic processes  
+- Limited citizen participation  
+- Inefficient waste management and routing  
+
+**SwachhMitra** addresses these challenges using AI-driven automation, geospatial analytics, and blockchain-based transparency to improve civic sanitation systems.
 
 ---
 
 ## Project Overview
 
-SwachhMitra is an AI-powered platform that empowers citizens to actively report, monitor, and track sanitation and waste management issues in their localities.
+SwachhMitra is an **AI-powered civic technology platform** that empowers citizens to actively report, monitor, and track sanitation and waste management issues in their localities.
 
-It transforms cleanliness from a government-only responsibility into a **community-driven mission**.
+The platform bridges the gap between **citizens, authorities, NGOs, and local communities**, transforming cleanliness from a government-only responsibility into a **community-driven mission**.
 
 ---
 
 ## Citizen Features
 
 - 📍 GPS-tagged complaint reporting  
-- 📸 Photo / Video upload  
-- 🎙 Voice-enabled commands  
-- 🌐 Multilingual support  
-- 📶 Offline submission with auto-sync  
+- 📸 Photo / Video upload for issue verification  
+- 🎙 Voice-enabled reporting support  
+- 🌐 Multilingual interface  
+- 📶 Offline submission with auto-sync capability  
 - 🤖 AI-based issue auto-classification  
-- 🚫 Fake / duplicate complaint detection  
-- 🏆 Cleanliness scores & Green Points  
-- 🥇 Badges & Leaderboards  
+- 🚫 Duplicate and fake complaint detection  
+- 🏆 Cleanliness score & Green Points system  
+- 🥇 Badges and community leaderboards  
 - 🎁 Rewards sponsored by local businesses  
 
 ---
 
 ## Admin Dashboard Features
 
-- 📊 Centralized complaint management  
-- 🤖 AI auto-routing to departments / NGOs  
-- 🗺 Heatmaps & ward-level performance tracking  
-- 📈 Predictive analytics for resource planning  
+- 📊 Centralized complaint monitoring system  
+- 🤖 AI-based automatic routing to departments / NGOs  
+- 🗺 Heatmaps and ward-level sanitation insights  
+- 📈 Predictive analytics for better planning  
 - 🔐 Blockchain-based tamper-proof logs  
-- 🚦 Priority detection using GPS + severity analysis  
-- 👥 Volunteer workflow integration  
+- 🚦 Priority detection using GPS and severity levels  
+- 👥 Volunteer and NGO workflow integration  
 - 🦟 Health alerts for vector-borne disease risks  
 
 ---
 
 ## Circular Economy Integration
 
+SwachhMitra also promotes sustainable waste management through:
+
 - Waste-to-product marketplace  
-- Segregation monitoring  
+- Waste segregation monitoring  
 - Household–Recycler–Business connectivity  
 - Reduced landfill dependency  
-- Promotion of green entrepreneurship  
+- Encouragement of green entrepreneurship  
 
 ---
 
 ## Technology Stack
 
-- Frontend: React + Vite + Tailwind CSS  
-- Backend: Node.js / Express (if used)  
-- Database: MongoDB / (add yours)  
-- AI: Auto-classification & validation models  
-- Blockchain: Tamper-proof logging layer  
-- Geospatial Analytics: GPS-based prioritization  
+- **Frontend:** React + Vite + Tailwind CSS  
+- **Backend:** Node.js / Express  
+- **Database:** MongoDB  
+- **AI/ML:** Issue classification & validation models  
+- **Blockchain:** Tamper-proof activity logs  
+- **Geospatial Analytics:** GPS-based prioritization  
 
 ---
 
 ## Impact
 
 ### 👤 For Citizens
-- Easy reporting
-- Transparency & tracking
-- Recognition & rewards
+- Simple and transparent complaint reporting  
+- Real-time tracking of civic issues  
+- Community recognition and rewards  
 
 ### 🏛 For Authorities
-- Faster issue resolution
-- Data-driven decision making
-- Public accountability
+- Faster issue resolution  
+- Data-driven decision making  
+- Improved transparency and accountability  
 
-### 🌱 For Environment
-- Improved waste segregation
-- Reduced landfill waste
-- Sustainable circular economy model
+### 🌍 For the Environment
+- Improved waste segregation practices  
+- Reduced landfill waste  
+- Support for circular economy initiatives  
 
 ---
 
 ## Innovation Highlights
 
-SwachhMitra integrates:
+SwachhMitra integrates multiple emerging technologies:
 
 - Artificial Intelligence  
 - Blockchain Transparency  
@@ -106,21 +109,37 @@ SwachhMitra integrates:
 - Offline-First Architecture  
 - Community-Driven Governance  
 
-It is more than a complaint platform —  
-it is a **holistic Clean & Green ecosystem for Atmanirbhar Bharat 🇮🇳**
+The platform goes beyond traditional complaint systems by creating a **holistic ecosystem for a cleaner and more sustainable Bharat 🇮🇳**.
 
 ---
 
 ## Category
 
-Software – Clean & Green Technology  
+**Software – Clean & Green Technology**
 
 ---
 
-## Developed For
+## 👥 Team
 
-Smart India Hackathon (SIH)
+This project was developed as part of the **Smart India Hackathon 2025 (SIH)**.
+
+Team Members:
+
+- Dimple Sachanandani  
+- Arisha Khan
+- Palak Ganwani 
+- Rashi Pawar
+- Shruti Vyas  
+
+Institution: **RCOEM**
 
 ---
 
-Made to build a Cleaner, Greener, and Self-Reliant India
+## 🏁 Developed For
+
+**Smart India Hackathon (SIH)**  
+Theme: *Swadeshi for Atmanirbhar Bharat – Clean & Green Technology*
+
+---
+
+Made to build a **Cleaner, Greener, and Self-Reliant India 🇮🇳**
