@@ -131,7 +131,7 @@ Team Members:
 - Rashi Pawar
 - Shruti Vyas  
 
-Institution: **RCOEM**
+Institution: **Shri Ramdeobaba College of Engineering and Management,Nagpur**
 
 ---
 
